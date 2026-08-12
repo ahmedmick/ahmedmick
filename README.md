@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a data analysis project<br>🌱 I’m currently learning Power BI<br>💬 Ask me about python
+🔭 I’m a fresh graduate Data Scientist who wants to help others achieve their goal by simplifying their success route<br>🌱 I’m currently learning Power BI<br>💬 Ask me about python
 
 
 ## 🌐 Socials:
