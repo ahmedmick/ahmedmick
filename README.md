@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a fresh graduate Data Scientist who wants to help others achieve their goal by simplifying their success route<br>🌱 I’m currently learning Power BI<br>💬 Ask me about python
+🔭 I’m a fresh graduate Data Scientist who wants to help others achieve their goal by simplifying their success route<br>🌱 I’m currently learning Building AI Agents<br>💬 Ask me about python
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedmick&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
