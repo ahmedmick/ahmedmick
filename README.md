@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a fresh graduate Data Scientist who wants to help others achieve their goal by simplifying their success route<br>🌱 I’m currently learning Building AI Agents<br>💬 Ask me about python
+🔭 I’m a Data Scientist who is interested in the NLP and Computer Vision fields, and I want to help others achieve their goals, especially those who need help.<br>🌱 I’m currently learning to build AI Agents<br>💬 Ask me about Python, SQL and Neural Networks
 
 
 ## 🌐 Socials:
